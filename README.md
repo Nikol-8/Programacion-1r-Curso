@@ -1,6 +1,6 @@
-# ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Programacion  - 1º DAM ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
+# ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Programacion JAVA  - 1º DAM ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 
-Este repositorio contiene ejercicios y prácticas de mi primer año Programando ⋆.ೃ࿔🌸*:･
+Este repositorio contiene ejercicios y prácticas de mi primer año Programando (Java) ⋆.ೃ࿔🌸*:･
 
 ## ✮ Contenido ✮ 
 
