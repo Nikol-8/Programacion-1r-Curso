@@ -1,14 +1,14 @@
-# Programacion  - 1º DAM ⋆✴︎˚｡⋆
+# ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Programacion  - 1º DAM ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 
 Este repositorio contiene ejercicios y prácticas de mi primer año Programando ⋆.ೃ࿔🌸*:･
 
-## Contenido ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
+## ✮ Contenido ✮ 
 
-✮ Programación Orientada a Objetos
-✮ Prácticas de examen
-✮ Arrays y estructuras
+- Programación Orientada a Objetos
+- Prácticas de examen
+- Arrays y estructuras
 
-## Objetivos ˗ˏˋ ♡ ˎˊ˗
+## ✮ Objetivos ✮
 
-✮ Mejorar mi lógica
-✮ Practicar
+- Mejorar mi lógica
+- Practicar
