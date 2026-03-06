@@ -17,14 +17,14 @@ MAYÚSCULAS):
 
 El tipo afecta al daño con un multiplicador (x2 fuerte, x0.5 débil, x1 normal).
 
-###Tabla de efectividad (String vs String)
+### Tabla de efectividad (String vs String)
 • "FUEGO" → fuerte vs "PLANTA" (x2), débil vs "AGUA" (x0.5)
 • "AGUA" → fuerte vs "FUEGO" (x2), débil vs "PLANTA" (x0.5)
 • "PLANTA" → fuerte vs "AGUA" (x2), débil vs "FUEGO" (x0.5)
 • "ELECTRICO" → fuerte vs "AGUA" (x2), débil vs "PLANTA" (x0.5)
 • Resto: x1
 
-##Parte 1 — Clase base Criatura
+## Parte 1 — Clase base Criatura
 
 Requisitos
 Crear clase Criatura con atributos privados:
@@ -49,7 +49,7 @@ Métodos:
 Ejemplo
 Si getTipo() devuelve "AGUA", entonces estado() debe contener "[AGUA]".
 
-##Parte 2 — Interfaces 
+## Parte 2 — Interfaces 
 
 Crear:
 • interface Entrenable { void entrenar(); }
@@ -66,7 +66,7 @@ Ejemplo
 • Criatura nivel 7: puedeEvolucionar() → false
 • Tras entrenar(): nivel 8 → puedeEvolucionar() → true
 
-##Parte 3 — Subclases por tipo
+## Parte 3 — Subclases por tipo
 
 Crea 4 clases que heredan de Criatura e implementan Entrenable y Evolucionable:
 • FuegoMon, AguaMon, PlantaMon, ElectricoMon
@@ -83,7 +83,7 @@ Regla de daño (obligatoria)
 5. aplicar objetivo.recibirDanio(dañoFinal)
 6. devolver dañoFinal
 
-##Parte 4 — Main con menú y combate
+## Parte 4 — Main con menú y combate
 
 En Main:
 • ArrayList<Criatura>
