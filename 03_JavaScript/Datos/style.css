@@ -1,0 +1,45 @@
+/* Reset */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #fff7ae, #ff8bcf);
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Contenedor */
+.container {
+    max-width: 700px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+/* Titulo */
+h1 {
+    text-align: center;
+    color: #4a4a4a;
+}
+
+/* Lista */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Elementos */
+li {
+    background: #f5f7fa;
+    margin: 10px 0;
+    padding: 12px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+/* Hover efecto */
+li:hover {
+    background: #e0e7ff;
+    transform: translateX(5PX);
+}
